@@ -7,9 +7,9 @@ About Me
 Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nodejs,git,github,vscode,linux&perline=6" alt="Tech stack" /> </div>
 GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=WLwl1&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" /> <img height="165" src="https://streak-stats.demolab.com?user=WLwl1&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WLwl1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top languages" /> </div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=WLwl1&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </div> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WLwl1&theme=tokyonight" alt="GitHub stats summary" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WLwl1&theme=tokyonight" alt="Top languages" /> </div>
 Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=WLwl1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=WLwl1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&row=2" alt="GitHub trophies" /> </div>
 Activity
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=WLwl1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" /> </div>
 Motto
